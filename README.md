@@ -1,6 +1,3 @@
-# symfony_study
-symfony_study 
-=======
 Symfony Standard Edition
 ========================
 
